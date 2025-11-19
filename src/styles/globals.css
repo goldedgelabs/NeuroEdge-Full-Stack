@@ -1,0 +1,4 @@
+
+:root{ --gold:#ffd700; --bg:#070707; }
+html,body,#root{height:100%;margin:0;background:var(--bg);color:#fff;font-family:Inter,system-ui,Arial;}
+*{box-sizing:border-box}
