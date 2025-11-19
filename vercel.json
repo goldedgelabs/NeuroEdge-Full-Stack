@@ -1,7 +1,7 @@
 {
   "name": "NeuroEdge AI",
   "version": "1.0.0",
-  "private": true,
+  "public": true,
   "scripts": {
     "dev": "vite",
     "build": "vite build",
